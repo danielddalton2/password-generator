@@ -2,7 +2,7 @@
 
 ## Description
 
-A tool to help generate a random password with varyious options. 
+A tool to help generate a random password with various options. 
 
 ## Installation
 
