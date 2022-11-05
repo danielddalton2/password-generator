@@ -10,11 +10,11 @@ URL: https://danielddalton2.github.io/password-generator/
 
 ## Usage
 
-insert image here
+![alt text](./assets/pass-gen-screenshot.jpg)
 
 ## Credits
 
-Stater Code by Xander Rapstine (Xandromus)
+Starter Code by Xander Rapstine (Xandromus)
 
 ## License
 
